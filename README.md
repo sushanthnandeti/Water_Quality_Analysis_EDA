@@ -1,4 +1,3 @@
-# INTRODUCTION:
 
 # Water Quality Analysis:
 ![water](https://github.com/sushanthnandeti/Water_Quality_Analysis_EDA/assets/62721296/94df2b5c-3d27-4951-a9e3-80255a11712f)
